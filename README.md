@@ -1,2 +1,10 @@
-# YaHei-Consolas-Hybrid-For-Powerline
-A Powerline-patched font based on YaHei Consolas Hybrid for Chinese Vim users.
+# Hybrid-For-Powerline
+A Powerline-patched Chinese Vim users.
+
+## Fonts List
+
+* YaHei Consolas Hybird
+* YaHei Ubuntu Mono 
+* YaHei Ubuntu Mono Bold
+* YaHei Ubuntu Mono Bold Light 
+* YaHei Ubuntu Mono Regular Light
