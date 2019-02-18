@@ -2,4 +2,4 @@
 
 A Powerline-patched font based on YaHei Consolas Hybrid for Chinese Vim users.
 
-You can check other hybrid fonts in other-hybrid-fonts branch (thanks for @cloverkits)
+You can check other hybrid fonts in other-hybrid-fonts branch (thanks for contribution of @cloverkits)
