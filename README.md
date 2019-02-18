@@ -8,3 +8,5 @@ A Powerline-patched Chinese Vim users.
 * YaHei Ubuntu Mono Bold
 * YaHei Ubuntu Mono Bold Light 
 * YaHei Ubuntu Mono Regular Light
+
+Thanks for contribution of @cloverkits
